@@ -1,2 +1,2 @@
 # rxxo.io
-Free
+FreeZ page
