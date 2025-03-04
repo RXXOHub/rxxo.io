@@ -1,2 +1,2 @@
 # rxxo.io
-FreeZ page
+FreezeZ page
